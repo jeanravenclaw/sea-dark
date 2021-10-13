@@ -1,0 +1,21 @@
+{
+    "name": "sea-dark",
+    "displayName": "Sea Dark",
+    "description": "A dark theme with good text readability to help you focus on your code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sea Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sea Dark-color-theme.json"
+            }
+        ]
+    }
+}
