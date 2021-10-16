@@ -3,12 +3,19 @@
     "displayName": "Sea Dark",
     "description": "A dark theme with good text readability to help you focus on your code.",
     "version": "0.0.1",
+	"publisher": "Anything",
     "engines": {
         "vscode": "^1.61.0"
     },
     "categories": [
         "Themes"
     ],
+	"keywords": [
+		"dark",
+		"green",
+		"blue",
+		"contrast"
+	],
     "contributes": {
         "themes": [
             {
