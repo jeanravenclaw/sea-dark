@@ -1,6 +1,6 @@
 # Sea Dark
 
-A beautiful contrast dark theme that helps you focus on your code, inspired by Monokai with a sea green twist. This theme improves readability.
+A beautiful contrast dark theme that helps you focus on your code and improve readability.
 
 ## Previews
 
