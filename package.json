@@ -1,7 +1,7 @@
 {
     "name": "sea-dark",
     "displayName": "Sea Dark",
-    "description": "A dark theme with good text readability to help you focus on your code.",
+    "description": "A beautiful contrast dark theme that helps you focus on your code, inspired by Monokai with a sea green twist. This theme improves readability.",
     "version": "0.0.1",
 	"publisher": "Anything",
     "engines": {
